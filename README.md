@@ -37,3 +37,11 @@ The score of specific element, which looks like pressable. Color Visibility, EM 
 **Context Score (NLP)**
 
 Simple NLP and with ui text content classification, we can score the content is likey to be a button text.
+
+
+
+## Data set
+
+## Making your own dataset
+
+Label your design with [Bridged's Labeller](https://github.com/bridgedxyz/ui-labeller)
