@@ -1,8 +1,0 @@
-* name
-Phone number
-First name
-Last name
-Company name
-Age
-Gender
-Select ((select menu input))

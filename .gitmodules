@@ -1,0 +1,3 @@
+[submodule "packages/dataset"]
+	path = packages/dataset
+	url = https://github.com/bridgedxyz/ui-dataset
