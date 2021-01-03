@@ -1,5 +1,5 @@
 # context
-context detection machine
+> A Neural-symbolic engine for understanding UI/UX context.
 
 
 ## Detection & Labelling
