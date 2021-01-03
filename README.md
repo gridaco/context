@@ -39,6 +39,10 @@ The score of specific element, which looks like pressable. Color Visibility, EM 
 Simple NLP and with ui text content classification, we can score the content is likey to be a button text.
 
 
+## Icons 2 vec (Icon classification)
+icon (vision based) classification and positioning on vector space indicating it's semantic space
+
+
 
 ## Data set
 
